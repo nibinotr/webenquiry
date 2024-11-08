@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  background-color: black; /* Background color for the page */
+  color: white; /* Text color */
+  font-family: Arial, sans-serif;
+}
